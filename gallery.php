@@ -53,6 +53,160 @@
         </div>
 
         <div class="row">
+		
+		 <div class="col-md-6">
+            <div class="event-29191 mb-5">
+              <a href="#" class="d-block mb-3"><img src="images/sensitizing-about-covid-19.jpeg" alt="Image" class="img-fluid rounded"></a>
+              <div class="px-3 d-flex">
+
+                <div class="bg-primary p-3 d-inline-block text-center rounded mr-4 date">
+                  <span class="text-white h3 m-0 d-block">10</span>
+                  <span class="text-white small">Nov 2020</span>
+                </div>
+
+                <div>
+                  <div class="mb-3">
+                    <span class="mr-3"> <span class="icon-bookmark mr-2 text-muted"></span><!--<a href="#">Cause</a>, <a href="#">Event</a></span>-->
+                    <span> <span class="icon-person mr-2 text-muted"></span>HPCPCR</span>
+                  </div>
+                  <h3><a href="#">Sensitizing about covid-19</a></h3>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="event-29191 mb-5">
+              <a href="#" class="d-block mb-3"><img src="images/spreading-happiness.jpeg" alt="Image" class="img-fluid rounded"></a>
+              <div class="px-3 d-flex">
+
+                <div class="bg-primary p-3 d-inline-block text-center rounded mr-4 date">
+                  <span class="text-white h3 m-0 d-block">10</span>
+                  <span class="text-white small">Nov 2020</span>
+                </div>
+
+                <div>
+                  <div class="mb-3">
+                    <span class="mr-3"> <span class="icon-bookmark mr-2 text-muted"></span><!--<a href="#">Cause</a>, <a href="#">Event</a>--></span>
+                    <span> <span class="icon-person mr-2 text-muted"></span>HPCPCR</span>
+                  </div>
+                  <h3><a href="#">Spreading happiness</a></h3>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+		 <div class="col-md-6">
+            <div class="event-29191 mb-5">
+              <a href="#" class="d-block mb-3"><img src="images/sharing-views.jpeg" alt="Image" class="img-fluid rounded"></a>
+              <div class="px-3 d-flex">
+
+                <div class="bg-primary p-3 d-inline-block text-center rounded mr-4 date">
+                  <span class="text-white h3 m-0 d-block">10</span>
+                  <span class="text-white small">Nov 2020</span>
+                </div>
+
+                <div>
+                  <div class="mb-3">
+                    <span class="mr-3"> <span class="icon-bookmark mr-2 text-muted"></span><!--<a href="#">Cause</a>, <a href="#">Event</a></span>-->
+                    <span> <span class="icon-person mr-2 text-muted"></span>HPCPCR</span>
+                  </div>
+                  <h3><a href="#">Sharing Views</a></h3>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="event-29191 mb-5">
+              <a href="#" class="d-block mb-3"><img src="images/pariksha-parv.jpeg" alt="Image" class="img-fluid rounded"></a>
+              <div class="px-3 d-flex">
+
+                <div class="bg-primary p-3 d-inline-block text-center rounded mr-4 date">
+                  <span class="text-white h3 m-0 d-block">10</span>
+                  <span class="text-white small">Nov 2020</span>
+                </div>
+
+                <div>
+                  <div class="mb-3">
+                    <span class="mr-3"> <span class="icon-bookmark mr-2 text-muted"></span><!--<a href="#">Cause</a>, <a href="#">Event</a>--></span>
+                    <span> <span class="icon-person mr-2 text-muted"></span>HPCPCR</span>
+                  </div>
+                  <h3><a href="#">Pariksha Parv</a></h3>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+		 <div class="col-md-6">
+            <div class="event-29191 mb-5">
+              <a href="#" class="d-block mb-3"><img src="images/welcome-to-honable-chairperson.jpeg" alt="Image" class="img-fluid rounded"></a>
+              <div class="px-3 d-flex">
+
+                <div class="bg-primary p-3 d-inline-block text-center rounded mr-4 date">
+                  <span class="text-white h3 m-0 d-block">10</span>
+                  <span class="text-white small">Nov 2020</span>
+                </div>
+
+                <div>
+                  <div class="mb-3">
+                    <span class="mr-3"> <span class="icon-bookmark mr-2 text-muted"></span><!--<a href="#">Cause</a>, <a href="#">Event</a></span>-->
+                    <span> <span class="icon-person mr-2 text-muted"></span>HPCPCR</span>
+                  </div>
+                  <h3><a href="#">Welcome to Honable Chairperson</a></h3>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="event-29191 mb-5">
+              <a href="#" class="d-block mb-3"><img src="images/honouring-the-resource-person.jpeg" alt="Image" class="img-fluid rounded"></a>
+              <div class="px-3 d-flex">
+
+                <div class="bg-primary p-3 d-inline-block text-center rounded mr-4 date">
+                  <span class="text-white h3 m-0 d-block">10</span>
+                  <span class="text-white small">Nov 2020</span>
+                </div>
+
+                <div>
+                  <div class="mb-3">
+                    <span class="mr-3"> <span class="icon-bookmark mr-2 text-muted"></span><!--<a href="#">Cause</a>, <a href="#">Event</a>--></span>
+                    <span> <span class="icon-person mr-2 text-muted"></span>HPCPCR</span>
+                  </div>
+                  <h3><a href="#">Honouring The Resource Person</a></h3>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-md-6">
+            <div class="event-29191 mb-5">
+              <a href="#" class="d-block mb-3"><img src="images/workshop-on-150-year-of-mahatma-ghandhi.jpeg" alt="Image" class="img-fluid rounded"></a>
+              <div class="px-3 d-flex">
+
+                <div class="bg-primary p-3 d-inline-block text-center rounded mr-4 date">
+                  <span class="text-white h3 m-0 d-block">10</span>
+                  <span class="text-white small">Nov 2020</span>
+                </div>
+
+                <div>
+                  <div class="mb-3">
+                    <span class="mr-3"> <span class="icon-bookmark mr-2 text-muted"></span><!--<a href="#">Cause</a>, <a href="#">Event</a>--></span>
+                    <span> <span class="icon-person mr-2 text-muted"></span>HPCPCR</span>
+                  </div>
+                  <h3><a href="#">Workshop on 150 year of Mahatma Ghandhi</a></h3>
+                </div>
+
+              </div>
+            </div>
+          </div>
+		  
+		  
           <div class="col-md-6">
             <div class="event-29191 mb-5">
               <a href="#" class="d-block mb-3"><img src="images/hpcpcr-carrom.jpg" alt="Image" class="img-fluid rounded"></a>

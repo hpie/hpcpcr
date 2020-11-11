@@ -35,9 +35,14 @@
       
 
       <div class="box-92819">
-        <h1 class="text-white mb-3">COMMISSION FOR PROTECTION OF CHILD RIGHTS,
-Himachal Pradesh</h1>
-        <p><!--<a href="#" class="btn btn-primary py-3 px-4 rounded-0">Donate Now</a>--></p>
+		<center>
+			<h1 class="text-white mb-3">Welcome to HPCPCR</h1>	
+			<h2 class="text-white mb-3">COMMISSION FOR PROTECTION OF CHILD RIGHTS, Himachal Pradesh</h2>
+			<a href="index.php" class="text-white"><img height=100px width=100px src="images/HPCPCR-hp-cm.png"></a>
+			<a href="index.php" class="text-white"><img height=100px width=100px src="images/HPCPCR-Nisha.png"></a> 
+			<a href="index.php" class="text-white"><img height=100px width=100px src="images/HPCPCR-Vandna.png"></a> 
+			<p><!--<a href="#" class="btn btn-primary py-3 px-4 rounded-0">Donate Now</a>--></p>
+		</center>
       </div>
 
       <div class="owl-carousel owl-1 ">
@@ -79,23 +84,30 @@ Himachal Pradesh</h1>
       </div>
     </div>
 	
-<!--
+
     <div class="site-section">	
       <div class="container">
         
         <div class="row mb-5 align-items-st">
           <div class="col-md-4">
             <div class="heading-20219">
-              <h2 class="title text-cursive">Latest Causes</h2>
+              <h2 class="title text-cursive">About</h2>
             </div>
           </div>
           <div class="col-md-8">
+			<p>In the Act, a child has been defined as a human being below the age of eighteen years.  It has <a href="#ourteam"> six members and a Chairperson </a>. The office of the Commission is at Sharma Bhawan,Phase-III,Below BCS,New Shimla-171009.</p>
+			<p>The Commission’s Mandate is to ensure that all Laws, Policies, Programmes and Administrative Mechanisms are in consonance with the Child Rights perspective as enshrined in the Constitution of India.</p>
+            <p>The Act empowers the Commission to act as a Civil Court to undertake suo-moto enquiry and also look into complaints related to deprivation and violation of child rights.</p>
+            <p>The Commission is actively and effectively monitoring rescue & rehabilitation of child labour specially involving migrant children, cases falling under Right to Education, medical crisis in schools, children’s right to play in parks, promotion of adoption of girl child, prevention of sexual abuse of children, checking child trafficking, children in need of care and protection etc.</p>
+            <p><a href="contact.php" class="btn btn-primary rounded-0 px-4">Contact Us</a></p>
+			<!--
             <p>India is a Country of National & State Human Rights Institutions. Children's rights are a subset of human rights with particular attention to the rights of special protection and care afforded to minors. The Convention on the Rights of the Child (CRC) defines a child as "any human being below the age of eighteen years, unless under the law applicable to the child, majority is attained earlier. </p> 
 			<p>Children's rights includes their right to association with both parents, human identity as well as the basic needs for physical protection, food, universal state-paid education, health care, and criminal laws appropriate for the age and development of the child, equal protection of the child's civil rights, and freedom from discrimination on the basis of the child's race, gender, sexual orientation, gender identity, national origin, religion, disability, color, ethnicity, or other characteristics. </p> 
 			<p>Interpretations of children's rights range from allowing children the capacity for autonomous action to the enforcement of children being physically, mentally and emotionally free from abuse.   Children are actually God’s gift to planet earth and if one keeps a child happy, they are keeping the almighty happy. Childhood is in fact God’s best gift to any individual, it is the first stage of life and a family is a place where the child is first born. So parents and other family members are actually responsible in shaping a child’s future and also in making the childhood of a child memorable. The most important thing is love and care which makes childhood memorable. A child has the purest heart, any human being can possess and all that heart desires is love; no matter what the circumstances are.</p>
+			-->
           </div>
         </div>
-
+<!--
         <div class="row">
           <div class="col-md-4">
               <div class="cause shadow-sm">
@@ -195,9 +207,11 @@ Himachal Pradesh</h1>
 
           </div>
         </div>
+		-->
+		
       </div>
     </div>
--->
+
 
     <div class="bg-image overlay site-section" style="background-image: url('images/hero_1.jpg');">
       <div class="container">
