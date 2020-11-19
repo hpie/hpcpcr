@@ -166,8 +166,8 @@
                 <li <?php echo $aboutlnk ?> id="aboutli"><a id="aboutlnk" href="about.php" class="nav-link">About Us</a></li>
 				<li <?php echo $functionslnk ?> id="functionsli"><a id="functionslnk" href="functions.php" class="nav-link">Functions</a></li>
 				<li <?php echo $powerslnk ?> id="powersli"><a id="powerslnk" href="powers.php" class="nav-link">Powers</a></li>
-				<li <?php echo $actslnk ?> id="actsli"><a id="actslnk" href="acts.php" class="nav-link">Acts</a></li>
-				<li <?php echo $rtelnk ?> id="rteli"><a id="rtelnk" href="rte.php" class="nav-link">RTE</a></li>
+				<li <?php echo $actslnk ?> id="actsli"><a id="actslnk" href="acts.php" class="nav-link">Acts & Rules</a></li>
+				<li <?php echo $rtelnk ?> id="rteli"><a id="rtelnk" href="rte.php" class="nav-link">RTI</a></li>
                 <li <?php echo $activitylnk ?> id="activityli"><a id="activitylnk" href="activity.php" class="nav-link">Activities</a></li>
 				<li <?php echo $stafflnk ?> id="staffli"><a id="stafflnk" href="staff.php" class="nav-link">Staff</a></li>
                 <li <?php echo $gallerylnk ?> id="galleryli"><a id="gallerylnk" href="gallery.php" class="nav-link">Gallery</a></li>

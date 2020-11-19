@@ -32,34 +32,56 @@
 
     <div class="owl-carousel-wrapper">
 
-      
-
-      <div class="box-92819">
+      <div class="box-92819" style="width: 80%; max-width: 90%">
+	    
 		<center>
-			<h1 class="text-white mb-3">Welcome to HPCPCR</h1>	
-			<h2 class="text-white mb-3">COMMISSION FOR PROTECTION OF CHILD RIGHTS, Himachal Pradesh</h2>
-			<p> </p>
-			
 			<p>
 				<center>
 					<table style="width: 100%; text-align: center; " >
 						<tr>
-							<td style="text-align: center; "><img height=100px width=100px src="images/HPCPCR-hp-cm.png"></td>
-							<td style="text-align: center; "><img height=100px width=100px src="images/HPCPCR-Nisha.png"></td>
-							<td style="text-align: center; "><img height=100px width=100px src="images/HPCPCR-Vandna.png"></td>
+							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-hp-cm.png"></td>
+							<td style="text-align: center; " rowspan=6>
+								<h1 class="text-white mb-3">Welcome to HPCPCR</h1>	
+								<h2 class="text-white mb-3">COMMISSION FOR PROTECTION OF CHILD RIGHTS, HIMACHAL PRADESH</h2>
+							</td>
+							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Sarveen.png"></td>
 						</tr>
 						<tr>
-							<td style="text-align: center; " class="text-white">Sh. Jai Ram Thakur <br />(Hon'ble Chief Minister)</td>
-							<td style="text-align: center; " class="text-white">Ms. Nisha Singh <br />(Additional Chief Secretary) </td>
-							<td style="text-align: center; " class="text-white">Ms. Vandna Kumari <br />(Chairperson)</td>
+							<td style="text-align: center; " class="text-white">Sh. Jai Ram Thakur <br />(Hon'ble Chief Minister) </td>
+							<td style="text-align: center; " class="text-white">Smt Sarveen Choudhary <br />(Hon'ble Minister SJ&E) </td>
+
 						</tr>
+						<tr>
+							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Sanjay.png"></td>
+							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Kritika.png"></td>
+
+						</tr>
+						<tr>
+							<td style="text-align: center; " class="text-white">Sh. Sanjay Gupta <br />(Additional Chief Secretary (SJ&E)) </td>
+							<td style="text-align: center; " class="text-white">Smt. Kritika Kulhari <br />(IAS Director cum Member Secretary) </td>
+
+						</tr>
+						<tr>
+							<td style="text-align: center; "> </td>
+							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Vandna.png"></td>
+
+						</tr>
+						<tr>
+							<td style="text-align: center; "> </td>
+							<td style="text-align: center; " class="text-white">Ms. Vandna Kumari <br />(Chairperson) </td>
+
+						</tr>
+						
+						
 					</table>
 				<center>	
 			</p>
 			
 			<p><!--<a href="#" class="btn btn-primary py-3 px-4 rounded-0">Donate Now</a>--></p>
 		</center>
+
       </div>
+
 
       <div class="owl-carousel owl-1 ">
         <div class="ftco-cover-1 overlay" style="background-image: url('images/hpcpcr-mother-child-strips.jpg');"></div>

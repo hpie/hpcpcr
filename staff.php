@@ -45,7 +45,7 @@
       
     </div>	
     
-    <div class="site-section">
+    <!--<div class="site-section">
       <div class="container">
         <div class="row mb-5 justify-content-center">
           <div class="col-md-6 text-center mb-5" id="ourteam">
@@ -70,7 +70,7 @@
 				</p>
               </div>
             </div>
-          </div>
+          </div> -->
           <!--<div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 bg-white text-center">
               <a href="#" class="d-inline-block">
@@ -90,7 +90,7 @@
             </div>
           </div>-->
 
-          <div class="col-lg-4 col-md-6 mb-5">
+         <!-- <div class="col-lg-4 col-md-6 mb-5">
             <div class="post-entry-1 h-100 bg-white text-center">
               <a href="#" class="d-inline-block">
                 <img src="images/HPCPCR-Suchitra-Thakur.jpg" alt="Image"
@@ -187,7 +187,7 @@
 
         </div>
       </div>
-    </div>
+    </div> -->
 	
 	
 	<div class="site-section">

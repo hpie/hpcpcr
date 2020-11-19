@@ -97,7 +97,7 @@
 				  <span>New Shimla-171009</span>
 				</li>
                 <li class="d-block mb-3"><span class="d-block text-muted small text-uppercase font-weight-bold">Phone:</span><span>+91 177 267 3940</span></li>
-                <li class="d-block mb-3"><span class="d-block text-muted small text-uppercase font-weight-bold">Email:</span><span>helpline(at)hpcpcr.hp.gov.in</span></li>
+                <li class="d-block mb-3"><span class="d-block text-muted small text-uppercase font-weight-bold">Email:</span><span>hpcpcr123(at)gmail.com</span></li>
               </ul>
             </div>
           </div>
