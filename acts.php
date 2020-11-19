@@ -52,8 +52,7 @@
 		<div class="row mb-12 align-items-st">
           <div class="col-md-12" id="acts">
             <div class="heading-20219">
-              <h2 class="title mb-4">Commission for protection of child Right Acts <!-- <a href="uploads/Child-Right-Acts.pdf">Click to Open Document</a> --> </h2>
-			  <iframe id="iframeActs" src="http://docs.google.com/gview?url=https://hpcpcr.hpie.in/uploads/Child-Right-Acts.pdf"> </iframe>
+              <h2 class="title mb-4">Commission for protection of child Right Acts <a href="uploads/Child-Right-Acts.pdf" target="_blank">Click to Open Document</a> </h2>
               <p>
 			</div>
           </div>
