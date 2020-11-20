@@ -53,22 +53,22 @@
 						</tr>
 						<tr>
 							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Sanjay.png"></td>
-							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Kritika.png"></td>
-
-						</tr>
-						<tr>
-							<td style="text-align: center; " class="text-white">Sh. Sanjay Gupta <br />(Additional Chief Secretary (SJ&E)) </td>
-							<td style="text-align: center; " class="text-white">Smt. Kritika Kulhari <br />(IAS Director cum Member Secretary) </td>
-
-						</tr>
-						<tr>
-							<td style="text-align: center; "> </td>
 							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Vandna.png"></td>
 
 						</tr>
 						<tr>
-							<td style="text-align: center; "> </td>
+							<td style="text-align: center; " class="text-white">Sh. Sanjay Gupta <br />(Additional Chief Secretary (SJ&E)) </td>
 							<td style="text-align: center; " class="text-white">Ms. Vandna Kumari <br />(Chairperson) </td>
+
+						</tr>
+						<tr>
+							<td style="text-align: center; "> </td>
+							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Kritika.png"></td>
+
+						</tr>
+						<tr>
+							<td style="text-align: center; "> </td>
+							<td style="text-align: center; " class="text-white">Smt. Kritika Kulhari <br />(IAS Director cum Member Secretary) </td>
 
 						</tr>
 						
