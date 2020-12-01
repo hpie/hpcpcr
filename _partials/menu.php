@@ -22,7 +22,7 @@
             
 
             <div class="site-logo">
-              <a href="index.php" class="text-white"><img height=50px width=50px src="images/hpcpcr-logo.png"></a>
+              <a href="index.php" class="text-white"><img height=60px width=60px src="images/hpcpcr-logo.png"></a>
             </div>
 
 			<?php

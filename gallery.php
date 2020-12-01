@@ -41,7 +41,7 @@
       </div>
 
       
-        <div class="ftco-cover-1 overlay" style="background-image: url('images/hpcpcr-parade-strips.jpg');"></div>
+        <div class="ftco-cover-1 overlay" style="background-image: url('images/hpcpcr-inspection-at-child-line-strips.jpg');"></div>
       
     </div>
     

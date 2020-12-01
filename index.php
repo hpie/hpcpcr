@@ -40,36 +40,47 @@
 					<table style="width: 100%; text-align: center; " >
 						<tr>
 							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-hp-cm.png"></td>
-							<td style="text-align: center; " rowspan=6>
+							<td style="text-align: center; " rowspan=4>
 								<h1 class="text-white mb-3">Welcome to HPCPCR</h1>	
 								<h2 class="text-white mb-3">COMMISSION FOR PROTECTION OF CHILD RIGHTS, HIMACHAL PRADESH</h2>
 							</td>
-							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Sarveen.png"></td>
+							<td style="text-align: center; "></td>
 						</tr>
 						<tr>
 							<td style="text-align: center; " class="text-white">Sh. Jai Ram Thakur <br />(Hon'ble Chief Minister) </td>
-							<td style="text-align: center; " class="text-white">Smt Sarveen Choudhary <br />(Hon'ble Minister SJ&E) </td>
+							<td style="text-align: center; " class="text-white"> </td>
 
 						</tr>
 						<tr>
 							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Sanjay.png"></td>
-							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Vandna.png"></td>
+							<td style="text-align: center; "> </td>
 
 						</tr>
 						<tr>
 							<td style="text-align: center; " class="text-white">Sh. Sanjay Gupta <br />(Additional Chief Secretary (SJ&E)) </td>
-							<td style="text-align: center; " class="text-white">Ms. Vandna Kumari <br />(Chairperson) </td>
+							<td style="text-align: center; " class="text-white"> </td>
 
 						</tr>
 						<tr>
-							<td style="text-align: center; "> </td>
-							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Kritika.png"></td>
-
+							<td style="text-align: center; "><img height=100px width=100px src="images/main/HPCPCR-Sarveen.png"></td>
+							<td style="text-align: center; " colspan=2 rowspan=2> 
+								<table>
+									<tr>
+										<td><img height=100px width=100px src="images/main/HPCPCR-Vandna.png"></td>
+										<td><img height=100px width=100px src="images/main/HPCPCR-Kritika.png"></td>
+									</tr>
+									<tr>
+										<td class="text-white"> Ms. Vandna Kumari <br />(Chairperson) </td>
+										<td class="text-white">Smt. Kritika Kulhari <br /> (IAS Director cum Member Secretary)</td>
+									</tr>
+								</table>	
+							</td>
+							<!--<td style="text-align: center; "> </td>-->
 						</tr>
 						<tr>
-							<td style="text-align: center; "> </td>
-							<td style="text-align: center; " class="text-white">Smt. Kritika Kulhari <br />(IAS Director cum Member Secretary) </td>
-
+							<td style="text-align: center; " class="text-white">Smt Sarveen Choudhary <br />(Hon'ble Minister SJ&E) </td>
+							<!--<td style="text-align: left; " class="text-white"> </td>
+							<td style="text-align: left; " class="text-white"> </td>-->
 						</tr>
 						
 						
