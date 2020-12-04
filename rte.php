@@ -37,7 +37,7 @@
       <div class="box-92819">
         <h1 class="text-white mb-3">RTI</h1>
         <p class="lead text-white">HPCPCR is empowered with the responsibility to examine and review the safeguards of rights provided by the Right of Children to Free and Compulsory Education Act, 2009 under section 31 and recommends measures for their effective implementation. The Commission is also mandated to Inquire into complaints relating to child’s right to free and compulsory education; and takes necessary steps as provided under Section 15 and 24 of the Commission for Protection of Child Rights Act.</p>
-        <p class="lead text-white">  <a id="readmorelnk" href="#readmorediv">... read more</a>
+        <p class="lead text-white">  <a id="readmorelnk" href="#readmorediv">... read more</a></p>
       </div>
 
       
@@ -50,7 +50,7 @@
       <div class="container">
         
         <div class="row mb-12 align-items-st">
-          <div class="col-md-12" id="rte">
+          <div class="col-md-12" id="readmorediv" style="display: none;">
             <div class="heading-20219">
               <h2 class="title mb-4">RTI</h2>
 				<p>
@@ -74,7 +74,7 @@
 					</table>
 				</p>
 				
-				<div id="readmorediv" style="display: none;">
+				<!--<div>
 				  <p>The Commission made significant interventions in furtherance to its mandate. Sensitization programmes on Child Rights to Free & Compulsory Education, RTE Act and its provisions vis-a-vis the role of teachers in making the RTE Act a reality was spoken in length with teachers and SMC Members during workshop and awareness camp: </p>
 				  <p>
 					<ul>
@@ -108,8 +108,7 @@
 							<li>Under Section 13 and 14 of Commission for Protection of Child Rights Act, 2005, the following sittings/inspections were conducted by the Commission and suo moto actions were taken in different types of cases pertaining to child offences on the basis of news items appeared in different news papers and requests/ representations received  from individuals as well as through NCPCR/other quarters. During the financial year 2019-20 total 113 sittings/inspections were conducted by the Commission and different type cases child crime/offences,  were discussed/disposed off . </li>
 						</ul>
 				  </p>
-				  <!--<p><a href="#" class="btn btn-primary rounded-0 px-4">Donate Now</a></p>-->
-			  </div>
+			  </div>-->
 			  
             </div>
           </div>

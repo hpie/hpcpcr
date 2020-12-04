@@ -37,7 +37,7 @@
       <div class="box-92819">
         <h1 class="text-white mb-3">Child Right Acts</h1>
         <p class="lead text-white">The acts whiche empowers the commission.</p>
-        <p class="lead text-white">  <a href="#acts">... read more</a>
+        <p class="lead text-white"><a id="readmorelnk" href="#readmorediv">... read more</a></p>
       </div>
 
       
@@ -45,12 +45,14 @@
       
     </div>
       		
-			
+	
+	
     <div class="site-section">
       <div class="container">
-        
+	  
+       <div id="readmorediv" style="display: none;"> 
 		<div class="row mb-12 align-items-st">
-          <div class="col-md-12" id="acts">
+          <div class="col-md-12">
             <div class="heading-20219">
               <h2 class="title mb-4">Commission for protection of child Right Acts <a href="uploads/Child-Right-Acts.pdf" target="_blank">Click to Open Document</a> </h2>
               <p>
@@ -140,13 +142,16 @@
 						</td>
 					<tr>
 					
-				<table>
+				</table>
 				
 			  </p>
               
               <!--<p><a href="#" class="btn btn-primary rounded-0 px-4">Donate Now</a></p>-->
             </div>
           </div>
+		</div>
+       </div>	
+		   
 		  <!--
           <div class="col-md-7">
             <div class="cause shadow-sm">
@@ -180,7 +185,7 @@
               </div>
           </div>
 		  -->
-        </div>
+
 <!--
         <div class="row">
           <div class="col-md-4">
@@ -395,7 +400,6 @@
 -->
     
 
-
     
 <!-- Footer Section Start --> 
 <?php
@@ -404,5 +408,14 @@
 <!-- Footer Section End -->
 
   </body>
+  
+<script nonce='S51U26wMQz' type="text/javascript"> 
+    $(document).ready(function() {
+       $('#readmorelnk').click(function() {
+           $('#readmorediv').show();
+           //return false;
+       });        
+   });
+</script>
 
 </html>

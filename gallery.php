@@ -37,7 +37,7 @@
       <div class="box-92819">
         <h1 class="text-white mb-3">Gallery</h1>
         <p class="lead text-white">Few glimpses of our events and activities</p>
-        <p class="lead text-white">  <a href="#gallery">... see more</a>
+        <p class="lead text-white"><a id="readmorelnk" href="#readmorediv">... read more</a></p>
       </div>
 
       
@@ -46,13 +46,16 @@
     </div>
     
     
+	
     <div class="site-section">
       <div class="container">
-        <div class="heading-20219 mb-5" id="gallery">
+	  
+	  <div id="readmorediv" style="display: none;" >
+        <div class="heading-20219 mb-5">
           <h2 class="title">Picture Gallery</h2>
-        </div>
-
-        <div class="row">
+        </div>      
+		
+		<div class="row">
 		
 		 <div class="col-md-6">
             <div class="event-29191 mb-5">
@@ -96,6 +99,7 @@
               </div>
             </div>
           </div>
+
 
 		 <div class="col-md-6">
             <div class="event-29191 mb-5">
@@ -621,7 +625,9 @@
                     </div>
                 </div>
             </div>
-
+		
+		  </div>		
+		</div>
 <!--
           <div class="col-12 text-center">
             <span class="p-3">1</span>
@@ -644,5 +650,14 @@
 <!-- Footer Section End -->
 
   </body>
+  
+<script nonce='S51U26wMQz' type="text/javascript"> 
+    $(document).ready(function() {
+       $('#readmorelnk').click(function() {
+           $('#readmorediv').show();
+           //return false;
+       });        
+   });
+</script>
 
 </html>

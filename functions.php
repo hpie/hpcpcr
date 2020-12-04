@@ -37,7 +37,7 @@
       <div class="box-92819">
         <h1 class="text-white mb-3">Functions of Commission</h1>
         <p class="lead text-white">The role of the Commission is in arming itself with proper research and documentation. The legitimacy and credibility to what the Commission says and does is based on solid research and data. Though everyone in the country knows that the predicament of the majority of children in our country is vulnerable and that children are not treated well, this has to be substantiated by information; it cannot just be an emotional argument. The Commission's focus is to build public awareness and create a moral force in the country to stand by children and protect their rights. A National Conscience has to be generated that captures the imagination of each citizen to take pride in the nation because it takes care of all its children.</p>
-        <p class="lead text-white">  <a href="#functions">... read more</a>
+        <p class="lead text-white"><a id="readmorelnk" href="#readmorediv">... read more</a></p>
       </div>
 
       
@@ -50,7 +50,7 @@
       <div class="container">
         
         <div class="row mb-12 align-items-st">
-          <div class="col-md-12" id="functions">
+          <div class="col-md-12" id="readmorediv" style="display: none;">
             <div class="heading-20219">
               <h2 class="title mb-4">Functions</h2>
               <p>In order to attain the Commission's Mandate of ensuring that each and every child has an access to all entitlements and enjoys all their rights, the State Commission for Protections of Child Rights took suo moto action on POCSO cases, collects action taken report from the quarter concerned immediately, and also helps the victims for immediate relief. </p>
@@ -332,5 +332,14 @@
 <!-- Footer Section End -->
 
   </body>
+  
+<script nonce='S51U26wMQz' type="text/javascript"> 
+    $(document).ready(function() {
+       $('#readmorelnk').click(function() {
+           $('#readmorediv').show();
+           //return false;
+       });        
+   });
+</script>
 
 </html>

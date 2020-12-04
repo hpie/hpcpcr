@@ -37,7 +37,7 @@
       <div class="box-92819">
         <h1 class="text-white mb-3">Contact Us</h1>
         <p class="lead text-white">Visit us, write to us or send and email</p>
-        <p class="lead text-white">  <a href="#contactus">... see address</a>
+        <p class="lead text-white">  <a id="readmorelnk" href="#readmorediv">... see address</a></p>
       </div>
 
       
@@ -49,9 +49,9 @@
     <div class="site-section">
       <div class="container">
         
-        <div class="row">
+        <div class="row" id="readmorediv" style="display: none;">
 
-            <div class="col-lg-8 mb-5" >
+            <div class="col-lg-8 mb-5">
                 <img src="images/hpcpcr-school-fare-bw.jpg" alt="Image" class="img-fluid rounded">
             </div>
 <!--
@@ -115,5 +115,14 @@
 <!-- Footer Section End -->
 
   </body>
+  
+<script nonce='S51U26wMQz' type="text/javascript"> 
+    $(document).ready(function() {
+       $('#readmorelnk').click(function() {
+           $('#readmorediv').show();
+           //return false;
+       });        
+   });
+</script>
 
 </html>

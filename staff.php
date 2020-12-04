@@ -37,7 +37,7 @@
       <div class="box-92819">
         <h1 class="text-white mb-3">Staff and Members</h1>
         <p class="lead text-white">Himachal Pradesh Commission for Protection of Child Rights was set up under the Commission for Protection of Child Right Act, 2005(4 of 2006) vide notification issued by the Govt of H.P. on 27.04.2013, to protect, promote and defend child rights in the State. </p>
-        <p><a href="#ourteam">...read more</a></p>
+        <p><a id="readmorelnk" href="#readmorediv">... read more</a></p>
       </div>
 
       
@@ -194,7 +194,7 @@
       <div class="container">
         <div class="row mb-5 justify-content-center">
 		
-          <div class="col-md-12 text-center mb-5" id="staffposition">
+          <div class="col-md-12 text-center mb-5" id="readmorediv" style="display: none;">
             <h2>Details of sectioned and filled in posts of the Commission as on 31.12.2019</h2>
 			<center>
 			<table class="site-table">
@@ -398,5 +398,14 @@
 <!-- Footer Section End -->
 
   </body>
+  
+<script nonce='S51U26wMQz' type="text/javascript"> 
+    $(document).ready(function() {
+       $('#readmorelnk').click(function() {
+           $('#readmorediv').show();
+           //return false;
+       });        
+   });
+</script>
 
 </html>

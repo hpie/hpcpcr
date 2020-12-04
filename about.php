@@ -37,7 +37,7 @@
       <div class="box-92819">
         <h1 class="text-white mb-3">About Us</h1>
         <p class="lead text-white">Himachal Pradesh Commission for Protection of Child Rights was set up under the Commission for Protection of Child Right Act, 2005(4 of 2006) vide notification issued by the Govt of H.P. on 27.04.2013, to protect, promote and defend child rights in the State. </p>
-        <p><a href="#aboutus">...read more</a></p>
+        <p><a id="readmorelnk" href="#readmorediv">... read more</a></p>
       </div>
 
       
@@ -45,7 +45,8 @@
       
     </div>
 
-
+	<div id="readmorediv" style="display: none;">
+	
     <div class="site-section">
         <div class="container">
             <div class="row">
@@ -430,7 +431,8 @@
       </div>
     </div>
 -->
-   
+  </div>
+  
 <!-- Footer Section Start --> 
 <?php
 	include ("_partials/footer.php");
@@ -438,5 +440,14 @@
 <!-- Footer Section End -->
 
   </body>
+  
+<script nonce='S51U26wMQz' type="text/javascript"> 
+    $(document).ready(function() {
+       $('#readmorelnk').click(function() {
+           $('#readmorediv').show();
+           //return false;
+       });        
+   });
+</script>
 
 </html>
