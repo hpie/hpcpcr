@@ -37,6 +37,7 @@
 				$gallerylnk = '';
 				$stafflnk = '';
 				$contactlnk = '';
+				$eventslnk = '';
 				if($activePage == "index.php")
 				{
 					$homelnk = 'class="active"';
@@ -48,7 +49,8 @@
 					$activitylnk = '';
 					$gallerylnk = '';
 					$stafflnk = '';
-					$contactlnk = '';
+					$contactlnk = 
+					$eventslnk = '';
 				}else if($activePage == "about.php")
 				{
 					$homelnk = '';
@@ -61,6 +63,7 @@
 					$gallerylnk = '';
 					$stafflnk = '';
 					$contactlnk = '';
+					$eventslnk = '';
 				}else if($activePage == "functions.php")
 				{
 					$homelnk = '';
@@ -73,6 +76,7 @@
 					$gallerylnk = '';
 					$stafflnk = '';
 					$contactlnk = '';
+					$eventslnk = '';
 				}else if($activePage == "powers.php")
 				{
 					$homelnk = '';
@@ -85,6 +89,7 @@
 					$gallerylnk = '';
 					$stafflnk = '';
 					$contactlnk = '';
+					$eventslnk = '';
 				}else if($activePage == "acts.php")
 				{
 					$homelnk = '';
@@ -97,6 +102,7 @@
 					$gallerylnk = '';
 					$stafflnk = '';
 					$contactlnk = '';
+					$eventslnk = '';
 				}else if($activePage == "rte.php")
 				{
 					$homelnk = '';
@@ -109,6 +115,7 @@
 					$gallerylnk = '';
 					$stafflnk = '';
 					$contactlnk = '';
+					$eventslnk = '';
 				}else if($activePage == "activity.php")
 				{
 					$homelnk = '';
@@ -121,6 +128,20 @@
 					$gallerylnk = '';
 					$stafflnk = '';
 					$contactlnk = '';
+					$eventslnk = '';
+				}else if($activePage ==  "events.php")
+				{
+					$homelnk = '';
+					$aboutlnk  = '';
+					$functionslnk  = '';
+					$powerslnk  = '';
+					$actslnk  = '';
+					$rtelnk  = '';
+					$activitylnk = '';
+					$gallerylnk = '';
+					$stafflnk = '';
+					$contactlnk = '';
+					$eventslnk = 'class="active"';
 				}else if($activePage ==  "gallery.php")
 				{
 					$homelnk = '';
@@ -133,6 +154,7 @@
 					$gallerylnk = 'class="active"';
 					$stafflnk = '';
 					$contactlnk = '';
+					$eventslnk = '';
 				}else if($activePage ==  "staff.php")
 				{
 					$homelnk = '';
@@ -145,6 +167,7 @@
 					$gallerylnk = '';
 					$stafflnk = 'class="active"';
 					$contactlnk = '';
+					$eventslnk = '';
 				}else if($activePage ==  "contact.php")
 				{
 					$homelnk = '';
@@ -157,6 +180,7 @@
 					$gallerylnk = '';
 					$stafflnk = '';
 					$contactlnk = 'class="active"';
+					$eventslnk = '';
 				}
 		
 			?>
@@ -170,6 +194,7 @@
 				<li <?php echo $rtelnk ?> id="rteli"><a id="rtelnk" href="rte.php" class="nav-link">RTI</a></li>
                 <li <?php echo $activitylnk ?> id="activityli"><a id="activitylnk" href="activity.php" class="nav-link">Activities</a></li>
 				<li <?php echo $stafflnk ?> id="staffli"><a id="stafflnk" href="staff.php" class="nav-link">Staff</a></li>
+				<li <?php echo $eventslnk ?> id="eventsli"><a id="eventslnk" href="events.php" class="nav-link">Events</a></li>
                 <li <?php echo $gallerylnk ?> id="galleryli"><a id="gallerylnk" href="gallery.php" class="nav-link">Gallery</a></li>
                 <li <?php echo $contactlnk ?> id="contactli"><a id="contactlnk" href="contact.php" class="nav-link">Contact Us</a></li>
               </ul>
